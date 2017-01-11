@@ -9,7 +9,7 @@
 ```
 google-chrome --proxy-server="socks5://[ip]:[端口]"
 ```
-3. 启动后可通过IP检测，是否翻墙启动成功
+启动后可通过IP检测，是否翻墙启动成功
 
 ### 下面介绍一下如何直接启动设置代理后的google-chrome：
 
