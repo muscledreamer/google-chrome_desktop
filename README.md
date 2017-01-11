@@ -51,4 +51,4 @@ google-chrom
 ### 如果有什么具体问题，欢迎大家与我交流：
 
 
-### Wechet:++**bojingqian1313**++
+### Wechet: bojingqian1313
